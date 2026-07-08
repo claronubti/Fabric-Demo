@@ -22,7 +22,8 @@ data = [
     (2, "Apparel", 120.50, "Delhi"),
     (3, "Electronics", 1200.00, "Bangalore"),
     (4, "Home Decor", 340.25, "Chennai"),
-    (5, "Apparel", 89.90, "Hyderabad")
+    (5, "Apparel", 89.90, "Hyderabad"),
+    (6, "Apparel", 89.90, "Hyderabad")
 ]
 
 # 3. Define schema column names
